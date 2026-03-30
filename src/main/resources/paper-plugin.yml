@@ -1,0 +1,7 @@
+name: FlockBront
+version: '1.0'
+main: org.solocode.flockBront.FlockBront
+api-version: '1.21'
+authors: [ TheTeleporter9/Solocode ]
+description: This is the plugin that makes techwars run poperly
+website: https://sites.google.com/view/techcraft-minecraft/home
